@@ -89,10 +89,19 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
     </tr>
     <tr>
       <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/wonhee-mis1/front.git" target="_blank">
+          front
         </a>
       </td>
-      <td>추후 생성 예정</td>
+      <td>프론트 서버</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/wonhee-mis1/db.git" target="_blank">
+          db
+        </a>
+      </td>
+      <td>DB 서버</td>
     </tr>
   </tbody>
 </table>
