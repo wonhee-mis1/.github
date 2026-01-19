@@ -57,7 +57,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
 파이썬을 기반으로 하며, AI와 차트 등을 통해 데이터 분석, 분류 및 시각화를 학습합니다.
 
 ### 기간
-- 2026.01.05 ~ 2026.02.05
+- 2026.01.05 ~ 2026.02.31(변동가능)
 
 ### 목적
 - 파이썬 문법과 FastAPI 프레임워크 학습
@@ -96,14 +96,6 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
       </td>
       <td>프론트 서버</td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/wonhee-mis1/db.git" target="_blank">
-          db
-        </a>
-      </td>
-      <td>DB 서버</td>
-    </tr>
   </tbody>
 </table>
 <br/>
@@ -112,7 +104,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
 ## 📑 Documentation & Rules
 
 - 개발 관련 문서, 컨벤션, 규칙은  
-  👉 `common` 레포지토리의 <a href="https://github.com/wonhee-mis1/common/wiki" target="_blank">wiki</a>에 정리합니다.
+  👉 `common` 레포지토리의 <a href="https://github.com/wonhee-mis1/common/wiki" target="_blank">wiki</a> 혹은 <a href="https://drive.google.com/drive/folders/1Freeuqe_o0WEs9K4MHM1SvlXcr15AjaD?usp=sharing" target="_blank">구글 드라이브</a>에 정리합니다.
   
 - 모든 스터디 및 프로젝트는 해당 문서를 기준으로 진행합니다.
 
