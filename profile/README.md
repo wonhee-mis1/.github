@@ -81,7 +81,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
   <tbody>
     <tr>
       <td>
-        <a href="[https://github.com/wonhee-mis1/backend.git" target="_blank](https://github.com/wonhee-mis1/wonhee-back)">
+        <a href="https://github.com/wonhee-mis1/wonhee-back.git" target="_blank">
           backend
         </a>
       </td>
