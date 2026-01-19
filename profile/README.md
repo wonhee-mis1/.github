@@ -49,10 +49,11 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
 
 ## 📂 Team Projects
 
-## 📌 1. emotion-diary
+## 📌 1. 슬기로운 원희생
 
 ### 개요
-사용자가 일기를 작성하면 AI를 통하여 내용 요악 및 감정 분석/분류 해주는 감정일기 서비스 입니다.<br/>
+사내 구성원의 일상 업무 편의성과 커뮤니케이션 효율을 향상시키기 위한 Python 기반 통합 업무 지원 웹 서비스입니다. 회의실 예약, 문서 관리, 질문·답변(Q&A) 시스템 등 사내에서 반복적으로 발생하는 업무를 하나의 플랫폼으로 통합하여 운영 효율을 높이는 것을 목표로 합니다.
+<br/>
 파이썬을 기반으로 하며, AI와 차트 등을 통해 데이터 분석, 분류 및 시각화를 학습합니다.
 
 ### 기간
@@ -89,7 +90,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/wonhee-mis1/front.git" target="_blank">
+        <a href="https://github.com/wonhee-mis1/wonhee-front.git" target="_blank">
           front
         </a>
       </td>
