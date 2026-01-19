@@ -59,7 +59,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
 - 2026.01.05 ~ 2026.02.05
 
 ### 목적
-- 파이썬 문법과 Django 프레임워크 학습
+- 파이썬 문법과 FastAPI 프레임워크 학습
 - AI 활용 학습
 - 데이터 분석 및 시각화 학습
 
@@ -81,7 +81,7 @@ MIS1팀 개발 스터디 토이프로젝트 공간입니다.
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/wonhee-mis1/backend.git" target="_blank">
+        <a href="[https://github.com/wonhee-mis1/backend.git" target="_blank](https://github.com/wonhee-mis1/wonhee-back)">
           backend
         </a>
       </td>
